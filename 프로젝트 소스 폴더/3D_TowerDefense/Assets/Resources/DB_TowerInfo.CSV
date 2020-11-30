@@ -1,0 +1,4 @@
+id,Name,Price_lv1,Price_lv2,Price_Sell_lv1,Price_Sell_lv2,1Row_IncreaseUpgradeCost,2Row_IncreaseUpgradeCost
+1,CannonTower,150,250,150,400,100,150
+2,LaserTower,400,300,400,700,150,250
+3,MagicTower,500,400,500,900,200,300
